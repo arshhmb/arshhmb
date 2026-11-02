@@ -1,25 +1,10 @@
-<!--
-  PROFILE README
-  1) Create a PUBLIC repository whose name exactly matches your GitHub username.
-  2) Replace every YOUR_GITHUB_USERNAME / YOUR_* placeholder.
-  3) Keep only projects and skills you can confidently discuss.
--->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:0891B2&height=190&section=header&text=Arash%20Ahmadabadi&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=58&descSize=16" alt="Animated gradient header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:0891B2&height=180&section=header&text=Arash%20Ahmadabadi&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=58&descSize=15" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+useful+software%2C+one+step+at+a+time;Full-Stack+Development;Exploring+Machine+Learning+%26+AI;Always+learning%2C+always+building" alt="Typing animation" />
-</a>
-
-<br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=1d4ed8&label=FOLLOWERS" alt="GitHub followers" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+useful+software;Full-Stack+Web+Development;Exploring+Machine+Learning+%26+AI;Always+learning%2C+always+building" />
 </a>
 
 </div>
@@ -42,112 +27,56 @@ I work mainly on web development, from backend logic and data modeling to fronte
 
 ## `$ tech-stack`
 
-### Languages
+### Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Python, JavaScript, HTML and CSS" />
+<a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 </p>
 
 ### Frameworks & Libraries
+
 <p>
-  <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,nestjs,vue,tailwind" alt="Django, React, Next.js, Node.js, NestJS, Vue and Tailwind CSS" />
+<a href="https://www.djangoproject.com/" title="Django"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
+<a href="https://react.dev/" title="React"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://nextjs.org/" title="Next.js"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+<a href="https://nestjs.com/" title="NestJS"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
+<a href="https://v2.vuejs.org/" title="Vue.js"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
 </p>
 
-### Databases & Tools
+### Database & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,linux,vscode" alt="MongoDB, Git, GitHub, Linux and VS Code" />
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linux.org/" title="Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
 </p>
 
-> My current focus is strengthening my Python and software engineering fundamentals while continuing to build with web technologies.
+---
+
+## `$ currently-learning`
+
+- Python and software engineering fundamentals
+- Machine Learning and Artificial Intelligence
 
 ---
 
-## `$ what-i'm-building`
+## `$ connect-with-me`
 
-A few areas and projects I'm currently exploring:
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 GapHero</h3>
-      <p>An AI-focused product exploring interactive experiences and AI-powered conversations.</p>
-      <p><strong>Focus:</strong> Product development · AI integration · UX</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GAPHERO_REPO">View project</a>
-    </td>
-    <td width="50%">
-      <h3>💜 Wixo</h3>
-      <p>A platform concept for beauty businesses, bringing customer booking and business management tools together.</p>
-      <p><strong>Focus:</strong> Full-stack development · Business workflows · CRM</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_WIXO_REPO">View project</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📡 Smart Video Intercom</h3>
-      <p>Exploring a way to capture an existing analog video-intercom signal and make it accessible through an internet-connected system.</p>
-      <p><strong>Focus:</strong> Hardware integration · Video streaming · IoT</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_INTERCOM_REPO">View project</a>
-    </td>
-    <td width="50%">
-      <h3>🧪 Learning Projects</h3>
-      <p>Small projects and experiments built while learning Python, OOP, backend development and Machine Learning.</p>
-      <p><strong>Focus:</strong> Problem solving · Fundamentals · Practice</p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Explore repositories</a>
-    </td>
-  </tr>
-</table>
-
-<!-- If a project is private or not published, remove its link or replace it with a public demo/repository. -->
-
----
-
-## `$ github-stats`
+<p>
+<a href="https://github.com/arshhmb" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arash-ahmadabadi" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/arshmbpv" title="Telegram"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.instagram.com/arshhmb" title="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" />
-</a>
+*“Great things are built by staying curious and showing up consistently.”*
 
-<br/>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</a>
-
-</div>
-
----
-
-## `$ let's-connect`
-
-I'm always happy to connect with developers, builders and people who enjoy learning by making things.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
-  <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Message on Telegram" />
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
-</a>
-<a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=About.me&logoColor=white" alt="Visit portfolio" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### “Great things are built by staying curious and showing up consistently.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0F172A&height=100&section=footer" width="100%" alt="Decorative footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0F172A&height=90&section=footer" />
 
 </div>
